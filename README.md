@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikash-kumar-thakur](https://github.com/vikash-kumar-thakur)
+- 👨‍💻 All of my projects are available at <br> [https://github.com/vikash-kumar-thakur](https://github.com/vikash-kumar-thakur)<br/>
+
 
 - 📫 How to reach me **vikashkumarcops@gmail.com**
 
